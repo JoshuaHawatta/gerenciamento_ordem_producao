@@ -19,7 +19,7 @@ Com este sistema, os usuários podem:
 
 ### Clone este repositório:
 
-`git clone https://github.com/Joshuahawatta/teste_pratico_dev_junior.git`
+`git clone https://github.com/JoshuaHawatta/gerenciamento_ordem_producao.git`
 
 Entre na pasta do projeto enstale as dependências:
 
